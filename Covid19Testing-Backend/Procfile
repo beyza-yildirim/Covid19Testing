@@ -1,0 +1,1 @@
+web: java -jar Covid19Testing-Backend/build/libs/Covid19Testing-Backend-0.0.1-SNAPSHOT.jar
